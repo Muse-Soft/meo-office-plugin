@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "meo-office": {
+      "type": "http",
+      "url": "${MEO_OFFICE_URL:-https://meo.genalpha.dev/mcp}"
+    }
+  }
+}

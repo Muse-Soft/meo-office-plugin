@@ -1,0 +1,15 @@
+{
+  "name": "meo-office",
+  "owner": {
+    "name": "Muse-Soft"
+  },
+  "description": "Kết nối AI với các văn phòng (office) của bạn trên Meo Office: tìm và đọc tài liệu, xem bảng việc, đề xuất hành động chờ bạn duyệt.",
+  "plugins": [
+    {
+      "name": "meo-office",
+      "source": "./plugin",
+      "description": "Kết nối AI với các văn phòng (office) của bạn trên Meo Office: tìm và đọc tài liệu, xem bảng việc, đề xuất hành động chờ bạn duyệt.",
+      "version": "0.1.0"
+    }
+  ]
+}
